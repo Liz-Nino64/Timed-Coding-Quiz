@@ -11,4 +11,6 @@ This webpage allows coding students to participate in a timed coding quiz to tes
 This webpage is accessible at https://liz-nino64.github.io/Timed-Coding-Quiz/
 
 ## License
-Licensed under the MIT License
+This webpage is licensed under the MIT License
+
+Bootstrap belongs the the Bootstrap team, and is licensed under the MIT License
